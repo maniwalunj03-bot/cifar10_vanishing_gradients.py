@@ -78,3 +78,32 @@ git clone https://github.com/maniwalunj03-bot/cifar10-vanishing-gradients.git
 cd cifar10-vanishing-gradients
 pip install -r requirements.txt
 python cifar10_vanishing_gradients.py
+
+🔹 Automatically saves plots inside: cifar_vanish_results/
+🔹 Supports GPU & CPU
+🔹 Adjustable: epochs, learning rate, activation type
+
+🚀 Future Extensions
+
+🔲 Add Tanh activation
+🔲 Add BatchNorm to reduce internal covariate shift
+🔲 Increase depth: 6–10 layers to amplify vanishing gradient effects
+🔲 Train with SGD + Momentum for comparison
+🔲 Add cosine LR scheduler
+🔲 Try Swish / GELU activations
+
+👩‍💻 Author
+
+Manisha Walunj
+Chemistry + Machine Learning | Deep Learning Research
+🔗 GitHub: https://github.com/maniwalunj03-bot
+
+🔗 LinkedIn: https://www.linkedin.com/in/manisha-walunj/
+
+📝 License
+
+MIT — free to use, modify, and cite.
+
+💡 If You Use This Repo
+
+Feel free to ⭐ star the project or tag me on LinkedIn — happy to connect!
