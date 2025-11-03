@@ -86,6 +86,7 @@ This repo provides a **clean, visual, experiment-based explanation** instead of 
 
 Manisha Walunj
 Chemistry + Machine Learning | Deep Learning Research
+
 🔗 GitHub: https://github.com/maniwalunj03-bot
 
 🔗 LinkedIn: https://www.linkedin.com/in/manisha-walunj/
