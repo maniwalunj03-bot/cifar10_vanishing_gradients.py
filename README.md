@@ -69,16 +69,6 @@ This repo provides a **clean, visual, experiment-based explanation** instead of 
 *(saved as `activation_gradmaps_conv1.png`)*  
 ![Grad Heatmap](save_dir/activation_gradmaps_conv1.png)
 
----
-
-## ▶️ How to Run
-
-```bash
-git clone https://github.com/maniwalunj03-bot/cifar10-vanishing-gradients.git
-cd cifar10-vanishing-gradients
-pip install -r requirements.txt
-python cifar10_vanishing_gradients.py
-
 🔹 Automatically saves plots inside: cifar_vanish_results/
 🔹 Supports GPU & CPU
 🔹 Adjustable: epochs, learning rate, activation type
@@ -107,3 +97,11 @@ MIT — free to use, modify, and cite.
 💡 If You Use This Repo
 
 Feel free to ⭐ star the project or tag me on LinkedIn — happy to connect!
+
+## ▶️ How to Run
+
+```bash
+git clone https://github.com/maniwalunj03-bot/cifar10-vanishing-gradients.git
+cd cifar10-vanishing-gradients
+pip install -r requirements.txt
+python cifar10_vanishing_gradients.py
